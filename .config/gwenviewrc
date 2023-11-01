@@ -1,0 +1,20 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+1280x720 screen: XPosition=320
+1280x720 screen: YPosition=132
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP1=eDP1
+
+[Recent Files]
+File1[$e]=$HOME/Midjourney Images/GenArtGallery_A_breathtaking_and_highly_realistic_photograph_of_53f7f3fe-1673-4e33-92b6-00eb22b0677d.png
+Name1[$e]=GenArtGallery_A_breathtaking_and_highly_realistic_photograph_of_53f7f3fe-1673-4e33-92b6-00eb22b0677d.png
+
+[SideBar]
+InformationSplitterSizes=0,0

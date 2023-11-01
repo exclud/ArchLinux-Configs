@@ -1,0 +1,47 @@
+[file:///home/shammah/.config/konsolerc]
+Bookmarks=
+Checksum=5e11980922deafbfabcae8aaa6427778ee3882b1
+Encoding=UTF-8
+Highlighting=.desktop
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=.desktop
+Mode Set By User=false
+Time=2023,11,1,17,31,58.582
+URL=file:///home/shammah/.config/konsolerc
+
+[file:///home/shammah/.config/lazydocker/config.yml]
+Bookmarks=
+Checksum=e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Encoding=UTF-8
+Highlighting=YAML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=YAML
+Mode Set By User=false
+Time=2023,10,13,8,51,23.806
+URL=file:///home/shammah/.config/lazydocker/config.yml
+
+[file:///home/shammah/.config/lazydocker/development.log]
+Bookmarks=
+Checksum=266de01acde4cf41f1c92e03df9830a2cee76e9b
+Encoding=UTF-8
+Highlighting=Log File (simplified)
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Log File (simplified)
+Mode Set By User=false
+Time=2023,10,13,8,51,17.445
+URL=file:///home/shammah/.config/lazydocker/development.log
+
+[file:///home/shammah/.ssh/known_hosts]
+Bookmarks=
+Checksum=fdf5f3106b0979060d4500a59b8289bab35c85f1
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,10,12,11,49,10.62
+URL=file:///home/shammah/.ssh/known_hosts
